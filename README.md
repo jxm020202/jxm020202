@@ -40,10 +40,3 @@
 ###
 
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jxm020202/count.svg?"  />
-</div>
-
-###
