@@ -35,6 +35,12 @@
 
 <img src="https://raw.githubusercontent.com/jxm020202/jxm020202/output/snake.svg" alt="Snake animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jxm020202/jxm020202/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jxm020202/jxm020202/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ###
 
 <div align="center">
