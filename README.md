@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jxm020202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxm020202&theme=redical&area=true&hide_border=false" height="150" alt="activity-graph graph"  />
 </div>
 
